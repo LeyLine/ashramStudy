@@ -8,3 +8,5 @@ echo $currentuser
 ?>
 
 Heres the latest news 
+
+Arrays are used with array and () = array() syntax. they work the same as JS
